@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # Copyright (C) 2010 David Francos Cuartero (XayOn)
-# Copyright (C) 2010 Rubén López Angós (RuffoMaker)
+# Copyright (C) 2010 Rubén López Angós (Ruffo ReturnCero)
 from BeautifulSoup import BeautifulSoup, SoupStrainer
 import mechanize, urllib, re, os, sys, thread
 from tuenti.login import TuentiLogger
