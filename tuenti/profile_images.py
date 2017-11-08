@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # Copyright (C) 2010 David Francos Cuartero (XayOn)
-# Copyright (C) 2010 Rubén López Angós (Ruffo)
+# Copyright (C) 2010 Rubén López Angós (RuffoMaker)
 from BeautifulSoup import BeautifulSoup, SoupStrainer
 import mechanize, urllib, re, os, sys, thread
 
